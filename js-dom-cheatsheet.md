@@ -3,7 +3,7 @@
 I build this document based on JavaScript DOM Crash Course by Traversy Media. I also recommend this channel as a great resource for everyone who learns coding.
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
-Maybe this document is not a real cheat sheet but I created just for own purpose. I like to make notes because it helps me to learn fast and better understanding :
+Maybe this document is not a real cheat sheet but I created just for own purpose. I like to make notes because it helps me to learn fast and better understanding.
 
 ### EXAMINE THE DOCUMENT OBJECT
 
